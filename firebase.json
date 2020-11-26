@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "public": "build",
+    "site": "alex-actions-test",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
